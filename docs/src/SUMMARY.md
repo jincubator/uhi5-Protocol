@@ -1,0 +1,17 @@
+# Summary
+- [Home](README.md)
+# src
+  - [❱ base](src/base/README.md)
+    - [BaseHook](src/base/BaseHook.sol/abstract.BaseHook.md)
+  - [❱ interfaces](src/interfaces/README.md)
+    - [IBaseHook](src/interfaces/IBaseHook.sol/interface.IBaseHook.md)
+    - [IHookEvents](src/interfaces/IHookEvents.sol/interface.IHookEvents.md)
+    - [IIntentSwapHook](src/interfaces/IIntentSwapHook.sol/interface.IIntentSwapHook.md)
+  - [❱ types](src/types/README.md)
+    - [IntentSwapStatus](src/types/IntentSwap.sol/enum.IntentSwapStatus.md)
+    - [IntentSwapAction](src/types/IntentSwap.sol/enum.IntentSwapAction.md)
+    - [IntentSwap](src/types/IntentSwap.sol/struct.IntentSwap.md)
+  - [❱ utils](src/utils/README.md)
+    - [CurrencySettler](src/utils/CurrencySettler.sol/library.CurrencySettler.md)
+  - [IntentSwapHook](src/IntentSwapHook.sol/contract.IntentSwapHook.md)
+  - [UniswapHook](src/UniswapHook.sol/contract.UniswapHook.md)
